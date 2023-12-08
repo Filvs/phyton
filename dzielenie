@@ -4,4 +4,3 @@ if b!=0:
     print("wynik=",a/b)
 else:
     print("b=0")
-print(wynik)
